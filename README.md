@@ -1,6 +1,6 @@
 # Templates
 
-There are a few different templates to choose from offering a quick and convinient way to start a new project
+These are a few different templates to choose from as a starter for a new project.
 
 # Using the Templates
 
